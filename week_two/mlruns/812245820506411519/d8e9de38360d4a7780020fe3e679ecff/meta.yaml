@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sam/Documents/ml-zoomcamp/2023/week_two/mlruns/812245820506411519/d8e9de38360d4a7780020fe3e679ecff/artifacts
+end_time: 1685904601897
+entry_point_name: ''
+experiment_id: '812245820506411519'
+lifecycle_stage: active
+run_id: d8e9de38360d4a7780020fe3e679ecff
+run_name: serious-flea-187
+run_uuid: d8e9de38360d4a7780020fe3e679ecff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685904594497
+status: 3
+tags: []
+user_id: sam

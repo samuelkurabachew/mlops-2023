@@ -1,0 +1,6 @@
+artifact_location: file:///home/sam/Documents/ml-zoomcamp/2023/week_two/mlruns/812245820506411519
+creation_time: 1685904594439
+experiment_id: '812245820506411519'
+last_update_time: 1685904594439
+lifecycle_stage: active
+name: nyc_green-taxi-experiment
